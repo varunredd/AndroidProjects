@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="893ae45c-13bd-4e1c-a5f9-b52be26867f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week1/OOPS/Kotlin002/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/OOPS/Kotlin002/src/Node.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/out/production/Week4/AccountType.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/out/production/Week4/AccountType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/out/production/Week4/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/out/production/Week4/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/out/production/Week4/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/out/production/Week4/CheckingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/out/production/Week4/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/out/production/Week4/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/out/production/Week4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/out/production/Week4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/out/production/Week4/SavingsAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/out/production/Week4/SavingsAccount.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Week4" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2tEF13tdkbSZSQpkDLYJ96T3BSD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/varunreddy/Desktop/demo"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893ae45c-13bd-4e1c-a5f9-b52be26867f3" name="Changes" comment="" />
+      <created>1739909108591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739909108591</updated>
+    </task>
+    <servers />
+  </component>
+</project>
